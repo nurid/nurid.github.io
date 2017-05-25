@@ -1,0 +1,8 @@
+{% include toc.html %}
+
+# Hello Jekyll
+
+Ini adalah halo Jekyll ...
+
+Mencoba posting yang lebih panjang dengan menyertakan toc. Tapi ini masih belum
+bisa panjang. 
