@@ -1,3 +1,12 @@
+---
+title: Ini pernyataan halo dari Jekyll
+layout: article
+modified: 2017-05-25
+---
+
+Sebelum saya isi dengan include toc.html, saya tambahkan pengantar. Bagaimana cara membuat link dengan menggunakan kamdown?
+Ke halaman [about] (/about)
+
 {% include toc.html %}
 
 # Hello Jekyll
