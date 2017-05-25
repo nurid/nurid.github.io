@@ -5,7 +5,7 @@ modified: 2017-05-25
 ---
 
 Sebelum saya isi dengan include toc.html, saya tambahkan pengantar. Bagaimana cara membuat link dengan menggunakan kamdown?
-Ke halaman [about] (http:/github.rd.web.id/about)
+Ke halaman [about](http:/github.rd.web.id/about)
 
 {% include toc.html %}
 
